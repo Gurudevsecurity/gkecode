@@ -1,5 +1,5 @@
 # Copyright (c) HashiCorp, Inc.
-# SPDX-License-Identifier: MPL-2.0
+#  Gurudev Sharma customized 
 
 variable "project_id" {
   description = "project id"
