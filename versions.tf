@@ -1,5 +1,5 @@
 # Copyright (c) HashiCorp, Inc.
-# SPDX-License-Identifier: MPL-2.0
+#  Gurudev Sharma customized 
 
 terraform {
   required_providers {
